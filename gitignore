@@ -1,0 +1,20 @@
+# Python virtual envs
+venv/
+environment/
+
+# Generated output data
+/output/data/
+/output/sentiment/
+/output/topics/
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+tmp/
