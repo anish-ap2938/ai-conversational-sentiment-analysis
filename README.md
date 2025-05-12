@@ -132,27 +132,3 @@ Response:
 
 ---
 
-## Testing
-
-* Use sample JSON files under `tests/data/` to validate each stage.
-* Run unit tests (if provided):
-
-  ```bash
-  pytest tests/
-  ```
-
----
-
-## Contributing
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m "Add feature"`)
-4. Push to your branch (`git push origin feature-name`)
-5. Open a Pull Request
-
----
-
-## License
-
-This project is provided under the MIT License.
